@@ -3,4 +3,4 @@ dist
 .tmp
 .sass-cache
 bower_components
-node-debug.log
+npm-debug.log
